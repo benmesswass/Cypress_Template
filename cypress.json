@@ -1,0 +1,15 @@
+{
+  "fileServerFolder": "cypress-test",
+  "fixturesFolder": "src/resources",
+  "integrationFolder": "src/test",
+  "pluginsFolder": "src/main/plugins/index.js",
+  "supportFile": "src/main/support/index.js",
+  "screenshotsFolder": "target/screenshots",
+  "videosFolder": "target/videos",
+  "downloadsFolder": "target/downloads",
+
+  "ignoreTestFiles": [],
+  "testFiles": "features/**/*.feature",
+
+  "screenshotOnRunFailure": true
+}
